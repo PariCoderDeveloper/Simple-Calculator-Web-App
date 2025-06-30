@@ -35,5 +35,9 @@ CalculatorApp/
 │   └── script.js
 └── index.html
 
-![image](https://github.com/user-attachments/assets/9f0b4196-07e8-46cb-966b-ac4c254b7b32)
 
+### 🧮 Simple Calculator Preview
+
+Here’s what the calculator looks like in action:
+
+![Simple Calculator Screenshot](https://github.com/user-attachments/assets/32390eda-6f2e-4a88-b7ec-43f71b310db0)
