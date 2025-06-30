@@ -25,6 +25,12 @@ A clean and responsive web-based calculator that performs basic arithmetic opera
     * Save the HTML code as `index.html` directly inside the `CalculatorApp` folder.
 2.  **Open `index.html`:** Navigate to the `CalculatorApp` folder on your computer and open the `index.html` file in your web browser.
 
+### 🧮 Simple Calculator Preview
+
+Here’s what the calculator looks like in action:
+
+![Simple Calculator Screenshot](https://github.com/user-attachments/assets/32390eda-6f2e-4a88-b7ec-43f71b310db0)
+
 ## Project Structure
 
 ```plaintext
@@ -36,8 +42,3 @@ CalculatorApp/
 └── index.html
 
 
-### 🧮 Simple Calculator Preview
-
-Here’s what the calculator looks like in action:
-
-![Simple Calculator Screenshot](https://github.com/user-attachments/assets/32390eda-6f2e-4a88-b7ec-43f71b310db0)
