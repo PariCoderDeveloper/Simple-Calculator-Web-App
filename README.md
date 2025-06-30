@@ -34,3 +34,6 @@ CalculatorApp/
 ├── JavaScripts/
 │   └── script.js
 └── index.html
+
+![image](https://github.com/user-attachments/assets/9f0b4196-07e8-46cb-966b-ac4c254b7b32)
+
